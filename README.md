@@ -21,4 +21,5 @@ Alternatively, one could run the provided `install_jupyterhub_serivce.sh` to do 
 ## References
 
 `systemd` configuration: https://github.com/jupyterhub/jupyterhub/wiki/Run-jupyterhub-as-a-system-service
+
 Autorestart: user "flymike" at https://askubuntu.com/questions/1043646/how-to-restart-spamassassin-after-failure
